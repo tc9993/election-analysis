@@ -105,4 +105,9 @@ The Colorado Board of Elections is conducting an election audit for a congressio
     <li>Regarding Item 1 above: Changing line 6 of the code to reflect either the correct file path <i>or</i> file name would be required to ensure the correct data set is being used to tabulate results.</li>
     <li>Regarding Item 2 above: Changing lines 8 of the code to reflect the desired output directory <i>or</i> output file name would be required.</li>
   </ul>
+  To further assist with any future changes, I also left notes within < > to indicate where path/file changes would need updating in the event either change, as displayed in Exhibit 1.1 below.
+  </p>
+  <p align="center">
+  <img src="https://github.com/tc9993/election-analysis/blob/main/Resources/code_snippet.png?raw=true" alt="Code Notations" height=75% width=75%><br>
+  <b>Exhibit 1.1:</b> Comments in code showing where path/filename edits can be made in the future.
   </p>
